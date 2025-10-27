@@ -1,3 +1,6 @@
+<picture>  
+  <img alt="Curriculo Online" src="https://github.com/GabrielaBrazSantos/js-developer-portfolio/blob/main/assets/img/print_tela_inicial.JPG" heigth="100%">
+</picture>
 # 📄 Currículo Online - Gabriela Braz
 
 Currículo desenvolvido em HTML5, CSS3 e JS com importação de informações de arquivo Json e responsividade. Está hospedado no GitHub Pages.
@@ -15,7 +18,6 @@ Currículo desenvolvido em HTML5, CSS3 e JS com importação de informações de
 - Habilidades técnicas e comportamentais
 - Formação e cursos específicos
 - Informações profissionais atualizadas
-
 
 🚀 🚀 🚀 
 
