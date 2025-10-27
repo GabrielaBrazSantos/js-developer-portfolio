@@ -19,7 +19,7 @@ function updateProfileInfo(profileData) {
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
-    email.href = `mailto:${profileData.email}`
+    email.href = profileData.email
 }
 
 function updateSoftSkills(profileData) {
@@ -62,12 +62,39 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+function updateCourses(profileData) {
+    const courses = document.getElementById('profile.courses')
+    courses.innerHTML = profileData.courses.map(course => {
+        return `
+            <li>
+                <h3 class="title">${course.name}</h3>
+                <p class="period">${course.period}</p>
+            </li>
+        `
+    }).join('')
+}
+
+function updateEducation(profileData) {
+    const education = document.getElementById('profile.education')
+    education.innerHTML = profileData.education.map(edu => {
+        return `
+            <li>
+                <h3 class="title">${edu.name}</h3>
+                <p class="period">${edu.period}</p>                
+            </li>
+        `
+    }).join('')
+}
+           
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
-    updateSoftSkills(profileData)
-    updateHardSkills(profileData)
     updateLanguages(profileData)
+    updateSoftSkills(profileData)
+    updateHardSkills(profileData)    
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+    updateEducation(profileData)
+    updateCourses(profileData)
 })()

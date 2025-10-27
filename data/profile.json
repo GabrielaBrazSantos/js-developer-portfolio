@@ -1,78 +1,158 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
+  "name": "Gabriela Braz",
+  "photo": "assets/img/foto.jpg",
+  "job": "Desenvolvedora .NET",
+  "location": "PE/Brasil",
   "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "email": "https://www.linkedin.com/in/gabriela-braz-santos/",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "NET",
+        "logo": "assets/img/icons/tools/net.svg"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "C#",
+        "logo": "assets/img/icons/tools/csharp.svg"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "SQL Server",
+        "logo": "assets/img/icons/tools/sqlserver.svg"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "PostgreSQL",
+        "logo": "assets/img/icons/tools/postgress.svg"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "MySQL",
+        "logo": "assets/img/icons/tools/mysql.svg"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "HTML5",
+        "logo": "assets/img/icons/tools/html.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "assets/img/icons/tools/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "assets/img/icons/tools/js.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "Azure DevOps",
+        "logo": "assets/img/icons/tools/azure.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "assets/img/icons/tools/github.svg"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Organização",
+      "Adaptabilidade",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Comunicação",
+      "Liderança"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês técnico"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex com Javascript",
+      "url": "https://github.com/GabrielaBrazSantos/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Testes Unitários TDD",
+      "url": "https://github.com/GabrielaBrazSantos/teste-unitario-tdd",
+      "github": true
+    },
+    {
+      "name": "Localizando Serviços no Azure",
+      "url": "https://github.com/GabrielaBrazSantos/resumo-lab-dio-localizando-servicos-azure",
+      "github": true
+    },
+    {
+      "name": "Criando Máquina Virtual no Azure",
+      "url": "https://github.com/GabrielaBrazSantos/resumo-lab-dio-criando-maquinas-virtuais-azure",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedora .NET / Spassu",
+      "period": "Out 2025 - Atual",
+      "description": "Desenvolvedora de software no ecossistema Microsoft no cliente Caixa Economica Federal."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedora .NET / Recurso Digital",
+      "period": "Mar 2010 - Set 2025",
+      "description": "Desenvolvedora de software no ecossistema Microsoft, diversos clientes notáveis Vivo (2010 a 2012), Santander (2012), SmartbyWines (2012 a 2017), Carl ZEISS Vision (2012 a 2025). Migração de projeto ASP NET WebForms / .Net Framework para ASP NET MVC / .NET CORE 6 / Microserviços. Tecnologias: NET, NET Core MVC, Webforms, API REST, MS SQL SERVER, PostgreSQL, integração PIX, .NetFramework, EntityFramework (EF). Integração com Micro serviços do Magazine Luiza. Banco de dados Relacional (MS SQL Server, PostgreSQL); Experiência sólida em desenvolvimento C#; Experiência sólida em linguagem SQL; Conhecimento avançados com Visual Studio; Experiência na utilização controle de versionamento Tortoise SVN; Familiaridade com metodologias ágeis, como Scrum e Kanban. Ferramentas: Trello, Visual Studio, Slac, DBeaver."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista Programador de Sistemas / Emphasys IT Services",
+      "period": "Jul 2009 - Jan 2010",
+      "description": "Desenvolvedora de sistemas web interno e externo para o cliente Comgás. Artefatos UML (análise de viabilidade, especificação técnica e funcional), criação de scripts/queries para consultas e modelagem do banco de dados DML, desenvolvimento de melhorias e atendimento de incidentes de projetos legados da Comgás. Tecnologias: ASP.NET/C#, ASP COM+ (componentes desenvolvidos em VB6), Banco de dados MS SQL Server e Oracle."
+    },
+    {
+      "name": "Analista Programador de Sistemas / Tritone Design",
+      "period": "Jan 2009 - Jun 2009",
+      "description": "Desenvolvedora de sistemas web, diversos clientes notáveis Bradesco, Consórcio Nacional Honda, Panasonic do Brasil. Tecnologias: ferramenta de versionamento de código Team Foundation Server (TFS) da Microsoft, ASP NET - C# .Net Framework, LINQ, MS SQL Server, ASP Clássico, PHP Estrutural."
+    },
+    {
+      "name": "Programador Júnior / Simplex TI",
+      "period": "Jan 2008 - Ot 2008",
+      "description": "Desenvolvimento do ERP da empresa, manutenção, criação de módulos e homologação do sistema. Tecnologias: Windows Forms - C#.NET - Banco de dados MS SQL Server."
+    },  
+    {
+      "name": "Auxiliar de Programação / HBS News Informática",
+      "period": "Mar 2006 - Abr 2007",
+      "description": "Desenvolvimento do ERP da empresa, atuei em diversos módulos como cadastros de pessoa, produto, pedido de compra, pedido de venda, nota fiscal, estoque, balanço. Tecnologias: Windows Forms - C#.NET - Crystal Reports - MS SQL Server."
+    }
+  ],
+  "education": [
+    {
+      "name": "Pós-Graduação | Gestão em TI / Gran Faculdade",
+      "period": "Dez 2027 - Em andamento"      
+    },
+    {
+      "name": "Superior | Análise e Desenvolvimento de Sistemas / Braz Cubas",
+      "period": "Dez 2023 - Formado"
+    },
+    {
+      "name": "Técnico | Informática com ênfase em Processamento de Dados/ Colégio Cruzeiro do Sul",
+      "period": "Mar 2005 - Formado"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Bootcamp Avanade - Back-end com .NET e IA / DIO",
+      "period": "Nov/2025 - Em andamento"
+    },
+    {
+      "name": "HTML Web Developer / DIO",
+      "period": "Dez/2025 - Em andamento"      
+    },    
+    {
+      "name": "Formação JavaScript Developer / DIO",
+      "period": "Out/2025 - Concluído"
+    },    
+    {
+      "name": "Bootcamp WEX - Desenvolvimento .NET e QA / DIO",
+      "period": "Nov/2025 - Concluído"
+    },    
+    {
+      "name": "O papel do DevOps na Transformação Digital dos Serviços Públicos / Enap",
+      "period": "Ago/2025 - Concluído"
     }
   ]
 }
